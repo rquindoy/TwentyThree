@@ -20,7 +20,10 @@ import com.example.reggi.Flickr.Utils;
 import java.util.List;
 
 /*
-Our goal is for this to be like any normal day of coding, so looking at Stackoverflow and other resources is fine and encouraged. Open source libraries are fine as well, please make a note of the ones you choose to use in the Technical Breakdown.
+Our goal is for this to be like any normal day of coding, so looking at Stackoverflow and other
+resources is fine and encouraged. Open source libraries are fine as well, please make a note of the
+ones you choose to use in the Technical Breakdown.
+
 We aren't expecting anything flashy for design, standard controls will work fine.
 Focus on functionality over any visual design, but do pay attention to clean code, app usability, and failure cases.
 
@@ -34,38 +37,18 @@ The app should:
 •	Allow a user to favorite/unfavorite a photo.
 •	Display that favorite status in some manner.
 •	A label, separate screen, etc.
+
 Deliver to us:
 •	A technical breakdown of the app and its functionality.
 •	Please list any assumptions, known limitations, and if any, next steps.
-•	Please discuss your overall architecture, and note how you would go about scaling it up with additional entity types and new screens.
+•	Please discuss your overall architecture, and note how you would go about scaling it up with
+    additional entity types and new screens.
 •	Please discuss any non-SDK libraries you use here.
 •	The functional app project, either a link to a git/svn repo or as a zip file.
 •	For Android, please use Android Studio.
 •	For iOS, Objective-C or Swift is fine.
 
-
-You can reply directly to this message or click the following link:
-https://app.jobvite.com/em?i74fadd5b5090fdc27a5828452d02ca42
-
-You can change your email preferences at:
-https://app.jobvite.com/l?ksEqVJfws
-
-Flickr url https://www.flickr.com/services/api/misc.urls.html
-
-
-https://farm{farm-id}.staticflickr.com/{server-id}/{id}_{secret}.jpg
-<photo
-title="Shorebirds at Pillar Point"
-id="3313428913"
-secret="2cd3cb44cb"
-server="3609"
-farm="4"
-owner="72442527@N00"
-ownername="Pat Ulrich" />
-
-https://farm4.staticflickr.com/3609/3313428913_2cd3cb44cb.jpg
-
- */
+*/
 
 
 public class MainActivity extends AppCompatActivity implements
