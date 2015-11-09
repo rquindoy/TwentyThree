@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="64dp"
+    android:width="64dp"
+    android:viewportHeight="1792"
+    android:viewportWidth="1792" >
+    <group
+        android:name="rotationGroup"
+        android:rotation="180.0">
+        <path
+            android:name="v"
+            android:fillColor="#FFFFFF"
+            android:pathData="m -100,-1000 q0,-51 -37,-90l-75,-75q-38,-38 -91,-38q-54,0 -90,38l-294,293l0,-704q0,-52 -37.5,-84.5q-37.5,-32.5 -90.5,-32.5l-128,0q-53,0 -90.5,32.5q-37.5,32.5 -37.5,84.5l0,704l-294,-293q-36,-38 -90,-38q-54,0 -90,38l-75,75q-38,38 -38,90q0,53 38,91l651,651q35,37 90,37q54,0 91,-37l651,-651q37,-39 37,-91z" />
+    </group>
+</vector>
